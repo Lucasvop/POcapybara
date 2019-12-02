@@ -6,6 +6,7 @@ html, body {
 
 .page {
   background-color: white;
+ 
 }
 
 .nav-header {
@@ -49,6 +50,7 @@ html, body {
 
 
   .page-content a {
+     letter-family:"open-sans";
    
   }
 
@@ -56,6 +58,7 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
+   letter-family:"open-sans";
 }
 
 h2 {
@@ -63,6 +66,7 @@ h2 {
   top: 0px;
   background-color: white;
   border-bottom: 1px solid #efefef;
+   letter-family:"open-sans";
 }
 
 
