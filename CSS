@@ -73,7 +73,8 @@ h2 {
 
 
 .page-nav {
- 
+position:absolute;
+margin-left:-160px;
 }
 
   .page-nav ul {
