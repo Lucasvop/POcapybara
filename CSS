@@ -2,7 +2,7 @@ html, body {
   background-color: #f3f3f3;
   padding: 0;
   margin: 0;
-  letter-family:"sans-serif";
+  font-family:sans-serif;
  }
 
 .page {
@@ -72,6 +72,7 @@ h2 {
 
 img {
   float: right;
+  margin-left: 10px;
 }
 
 .page-nav {
