@@ -68,9 +68,11 @@ h2 {
   top: 0px;
   background-color: white;
   border-bottom: 1px solid #efefef;
-  
 }
 
+img {
+  float: right;
+}
 
 .page-nav {
 position:absolute;
